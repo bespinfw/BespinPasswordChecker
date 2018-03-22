@@ -3,3 +3,5 @@
 ################################################################################
 
 /BespinPasswordChecker/bin
+/BespinPasswordChecker/obj
+/.vs
